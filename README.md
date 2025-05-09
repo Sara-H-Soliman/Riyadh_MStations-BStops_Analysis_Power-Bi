@@ -1,6 +1,6 @@
 # Riyadh_MStations-BStops_Analysis_Power-Bi
 
-### 🚇🚌🟨 Riyadh Metro & Bus Stops Analysis – Power BI Dashboard
+### 🚇🚌🟨 Riyadh Metro Stations & Bus Stops Analysis – Power BI Dashboard
 This project presents an interactive Power BI Dashboard offering a deep dive into public transportation in Riyadh. The analysis covers metro stations, bus stops, and their multimodal connectivity, providing valuable insights.
 
 ### 🔍 Key Insights & Features:
